@@ -22,11 +22,16 @@
 #icon1{
 	width: 17px;
 	height: 17px;
-	color: #2ecc71;
-	float: right;
 }
 
 .card{
 	box-shadow: 2px 5px 10px #ccc;
 
 }
+
+#icon2{
+	width: 25px;
+	height: 25px;
+	float: right;
+}
+
