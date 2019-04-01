@@ -1,0 +1,32 @@
+#body{
+	background-color: #dcdde1;
+}
+
+#img{
+	border-radius: 50%;
+}
+
+#para{
+	font-size: 12.5px;
+}
+
+#t{
+	text-align: left;
+}
+
+#img1{
+	width: 360px;
+	height: 200px;
+}
+
+#icon1{
+	width: 17px;
+	height: 17px;
+	color: #2ecc71;
+	float: right;
+}
+
+.card{
+	box-shadow: 2px 5px 10px #ccc;
+
+}
